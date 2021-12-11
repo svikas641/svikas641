@@ -1,6 +1,13 @@
 ### Hi there 👋
 
-I like JavaScript, React, Node, Express
+  - 🔭 I’m currently working on Golang, Javascript.
+  - 🌱 I’m currently learning Golang, Typescript.
+  - 👯 I’m looking to collaborate on Golang Projects.
+  - 🤔 I’m looking for help with Golang again 😂.
+  - 💬 Ask me about Javascript and Node.
+  - 📫 How to reach me: Mail me.
+  - 😄 Pronouns: He/Him.
+  - ⚡ Fun fact: I star repositories to never check on them.
 
 <!--
   https://github.com/anuraghazra/github-readme-stats
@@ -44,18 +51,3 @@ I like JavaScript, React, Node, Express
   <br />
 
 </div>
-
-<!--
-  **svikas641/svikas641** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-  Here are some ideas to get you started:
-
-  - 🔭 I’m currently working on ...
-  - 🌱 I’m currently learning ...
-  - 👯 I’m looking to collaborate on ...
-  - 🤔 I’m looking for help with ...
-  - 💬 Ask me about ...
-  - 📫 How to reach me: ...
-  - 😄 Pronouns: ...
-  - ⚡ Fun fact: ...
--->
