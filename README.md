@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+<!--
   - 🔭 I’m currently working on Golang, Javascript.
   - 🌱 I’m currently learning Golang, Typescript.
   - 👯 I’m looking to collaborate on Golang Projects.
@@ -8,7 +9,7 @@
   - 📫 How to reach me: Mail me.
   - 😄 Pronouns: He/Him.
   - ⚡ Fun fact: I star repositories to never check on them.
-
+-->
 <!--
   https://github.com/anuraghazra/github-readme-stats
 -->
