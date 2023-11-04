@@ -1,18 +1,6 @@
 ### Hi there 👋
 
-<!--
-  - 🔭 I’m currently working on Golang, Javascript.
-  - 🌱 I’m currently learning Golang, Typescript.
-  - 👯 I’m looking to collaborate on Golang Projects.
-  - 🤔 I’m looking for help with Golang again 😂.
-  - 💬 Ask me about Javascript and Node.
-  - 📫 How to reach me: Mail me.
-  - 😄 Pronouns: He/Him.
-  - ⚡ Fun fact: I star repositories to never check on them.
--->
-<!--
-  https://github.com/anuraghazra/github-readme-stats
--->
+https://github.com/anuraghazra/github-readme-stats
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=svikas641&show_icons=true&title_color=fff&bg_color=000&icon_color=fff&hide_title=true&text_color=fff&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=svikas641&hide=html&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
