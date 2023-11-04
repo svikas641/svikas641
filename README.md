@@ -1,10 +1,4 @@
 ### Hi there 👋
-
-https://github.com/anuraghazra/github-readme-stats
-
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=svikas641&show_icons=true&title_color=fff&bg_color=000&icon_color=fff&hide_title=true&text_color=fff&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=svikas641&hide=html&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
 <div align=center>
 
 ![Javscript Badge](http://img.shields.io/badge/-Javascript-000?style=flat-square&logo=javascript)
